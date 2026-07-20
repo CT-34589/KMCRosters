@@ -1,0 +1,1187 @@
+{
+  "lastUpdated": "2026-07-17T12:00:00.000Z",
+  "qualifications": [
+    {
+      "id": "1",
+      "slug": "rifleman",
+      "name": "Rifleman",
+      "description": "Rifleman qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "rifleman-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "airborne_instructor",
+              "label": "Airborne Instructor",
+              "members": []
+            },
+            {
+              "key": "riflaman_instructor",
+              "label": "Riflaman Instructor",
+              "members": []
+            },
+            {
+              "key": "airbourne",
+              "label": "Airbourne",
+              "members": []
+            },
+            {
+              "key": "rifleman",
+              "label": "Rifleman",
+              "members": []
+            },
+            {
+              "key": "infantryman",
+              "label": "Infantryman",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "rifleman-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "airborne_instructor",
+              "label": "Airborne Instructor",
+              "members": []
+            },
+            {
+              "key": "riflaman_instructor",
+              "label": "Riflaman Instructor",
+              "members": []
+            },
+            {
+              "key": "airbourne",
+              "label": "Airbourne",
+              "members": []
+            },
+            {
+              "key": "rifleman",
+              "label": "Rifleman",
+              "members": []
+            },
+            {
+              "key": "infantryman",
+              "label": "Infantryman",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "rifleman-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "airborne_instructor",
+              "label": "Airborne Instructor",
+              "members": []
+            },
+            {
+              "key": "riflaman_instructor",
+              "label": "Riflaman Instructor",
+              "members": []
+            },
+            {
+              "key": "airbourne",
+              "label": "Airbourne",
+              "members": []
+            },
+            {
+              "key": "rifleman",
+              "label": "Rifleman",
+              "members": []
+            },
+            {
+              "key": "infantryman",
+              "label": "Infantryman",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#3e6588"
+    },
+    {
+      "id": "2",
+      "slug": "gunner",
+      "name": "Gunner",
+      "description": "Gunner qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "gunner-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "marine_instructor",
+              "label": "Marine Instructor",
+              "members": []
+            },
+            {
+              "key": "gunner_instructor",
+              "label": "Gunner Instructor",
+              "members": []
+            },
+            {
+              "key": "marine",
+              "label": "Marine",
+              "members": []
+            },
+            {
+              "key": "gunner",
+              "label": "Gunner",
+              "members": []
+            },
+            {
+              "key": "grenadier",
+              "label": "Grenadier",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "gunner-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "marine_instructor",
+              "label": "Marine Instructor",
+              "members": []
+            },
+            {
+              "key": "gunner_instructor",
+              "label": "Gunner Instructor",
+              "members": []
+            },
+            {
+              "key": "marine",
+              "label": "Marine",
+              "members": []
+            },
+            {
+              "key": "gunner",
+              "label": "Gunner",
+              "members": []
+            },
+            {
+              "key": "grenadier",
+              "label": "Grenadier",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "gunner-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "marine_instructor",
+              "label": "Marine Instructor",
+              "members": []
+            },
+            {
+              "key": "gunner_instructor",
+              "label": "Gunner Instructor",
+              "members": []
+            },
+            {
+              "key": "marine",
+              "label": "Marine",
+              "members": []
+            },
+            {
+              "key": "gunner",
+              "label": "Gunner",
+              "members": []
+            },
+            {
+              "key": "grenadier",
+              "label": "Grenadier",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#8226ad"
+    },
+    {
+      "id": "3",
+      "slug": "marksman",
+      "name": "Marksman",
+      "description": "Marksman qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": [
+          {
+            "id": "marksman-head-001",
+            "discordId": null,
+            "displayName": "CDR Feedback",
+            "callsign": "CT-12982",
+            "note": null
+          }
+        ]
+      },
+      "consoles": [
+        {
+          "id": "marksman-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "scout_instructor",
+              "label": "Scout Instructor",
+              "members": []
+            },
+            {
+              "key": "sharpshooter_instructor",
+              "label": "Sharpshooter Instructor",
+              "members": []
+            },
+            {
+              "key": "scout",
+              "label": "Scout",
+              "members": []
+            },
+            {
+              "key": "sharpshooter",
+              "label": "Sharpshooter",
+              "members": []
+            },
+            {
+              "key": "marksman",
+              "label": "Marksman",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "marksman-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": [
+                {
+                  "id": "marksman-cadre-001",
+                  "discordId": null,
+                  "displayName": "WO Ollie",
+                  "callsign": "CT-34589",
+                  "note": null
+                },
+                {
+                  "id": "marksman-cadre-002",
+                  "discordId": null,
+                  "displayName": "WO Test",
+                  "callsign": "CT-34589",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "key": "scout_instructor",
+              "label": "Scout Instructor",
+              "members": [
+                {
+                  "id": "marksman-scout_instructor-001",
+                  "discordId": null,
+                  "displayName": "AMAJ Katana",
+                  "callsign": "ARC-14912",
+                  "note": null
+                },
+                {
+                  "id": "marksman-scout_instructor-002",
+                  "discordId": null,
+                  "displayName": "SGM Deeby",
+                  "callsign": "CT-23-729",
+                  "note": null
+                },
+                {
+                  "id": "marksman-scout_instructor-003",
+                  "discordId": null,
+                  "displayName": "WO Jaws",
+                  "callsign": "CT-12501",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "key": "sharpshooter_instructor",
+              "label": "Sharpshooter Instructor",
+              "members": [
+                {
+                  "id": "marksman-sharpshooter_instructor-001",
+                  "discordId": null,
+                  "displayName": "AMAJ Katana",
+                  "callsign": "ARC-14912",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter_instructor-002",
+                  "discordId": null,
+                  "displayName": "SGM Deeby",
+                  "callsign": "CT-23-729",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter_instructor-003",
+                  "discordId": null,
+                  "displayName": "WO Jaws",
+                  "callsign": "CT-12501",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "key": "scout",
+              "label": "Scout",
+              "members": [
+                {
+                  "id": "marksman-scout-001",
+                  "discordId": null,
+                  "displayName": "CT EJM",
+                  "callsign": "CT-28313",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "key": "sharpshooter",
+              "label": "Sharpshooter",
+              "members": [
+                {
+                  "id": "marksman-sharpshooter-001",
+                  "discordId": null,
+                  "displayName": "CT AngelShot",
+                  "callsign": "CT-22-721",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-002",
+                  "discordId": null,
+                  "displayName": "CT Hexa",
+                  "callsign": "CT-31221",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-003",
+                  "discordId": null,
+                  "displayName": "SGT Coper",
+                  "callsign": "CT-34358",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-004",
+                  "discordId": null,
+                  "displayName": "ACPT Atin",
+                  "callsign": "A-72",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-005",
+                  "discordId": null,
+                  "displayName": "RCPT Mink",
+                  "callsign": "RC-2-4436",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-006",
+                  "discordId": null,
+                  "displayName": "CT Eclipse",
+                  "callsign": "CT-8904",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-007",
+                  "discordId": null,
+                  "displayName": "CT Gibo",
+                  "callsign": "CT-14542",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-008",
+                  "discordId": null,
+                  "displayName": "CT Lyerian",
+                  "callsign": "CT-9138",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-009",
+                  "discordId": null,
+                  "displayName": "CT Skymark",
+                  "callsign": "CT-13195",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-010",
+                  "discordId": null,
+                  "displayName": "CT Sycamore",
+                  "callsign": "CT-22-974",
+                  "note": null
+                },
+                {
+                  "id": "marksman-sharpshooter-011",
+                  "discordId": null,
+                  "displayName": "NCDR Cora",
+                  "callsign": "CT-15971",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "key": "marksman",
+              "label": "Marksman",
+              "members": [
+                {
+                  "id": "marksman-marksman-001",
+                  "discordId": null,
+                  "displayName": "CPL Ares",
+                  "callsign": "CT-23-945",
+                  "note": null
+                },
+                {
+                  "id": "marksman-marksman-002",
+                  "discordId": null,
+                  "displayName": "CT Volcano",
+                  "callsign": "CT-25-438",
+                  "note": null
+                },
+                {
+                  "id": "marksman-marksman-003",
+                  "discordId": null,
+                  "displayName": "LCPL Clasher",
+                  "callsign": "CT-22-823",
+                  "note": null
+                },
+                {
+                  "id": "marksman-marksman-004",
+                  "discordId": null,
+                  "displayName": "WCDR Entity",
+                  "callsign": "CT-22-880",
+                  "note": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "marksman-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "scout_instructor",
+              "label": "Scout Instructor",
+              "members": []
+            },
+            {
+              "key": "sharpshooter_instructor",
+              "label": "Sharpshooter Instructor",
+              "members": []
+            },
+            {
+              "key": "scout",
+              "label": "Scout",
+              "members": []
+            },
+            {
+              "key": "sharpshooter",
+              "label": "Sharpshooter",
+              "members": []
+            },
+            {
+              "key": "marksman",
+              "label": "Marksman",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#157a37"
+    },
+    {
+      "id": "4",
+      "slug": "armour",
+      "name": "Armour",
+      "description": "Armour qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "armour-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "multi_rated_instructor",
+              "label": "Multi-rated instructor",
+              "members": []
+            },
+            {
+              "key": "tx_130_instructor",
+              "label": "TX-130 Instructor",
+              "members": []
+            },
+            {
+              "key": "at_rt_instructor",
+              "label": "AT-RT Instructor",
+              "members": []
+            },
+            {
+              "key": "multi_rated",
+              "label": "Multi-Rated",
+              "members": []
+            },
+            {
+              "key": "tx_130",
+              "label": "TX-130",
+              "members": []
+            },
+            {
+              "key": "at_rt",
+              "label": "AT-RT",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "armour-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "multi_rated_instructor",
+              "label": "Multi-rated instructor",
+              "members": []
+            },
+            {
+              "key": "tx_130_instructor",
+              "label": "TX-130 Instructor",
+              "members": []
+            },
+            {
+              "key": "at_rt_instructor",
+              "label": "AT-RT Instructor",
+              "members": []
+            },
+            {
+              "key": "multi_rated",
+              "label": "Multi-Rated",
+              "members": []
+            },
+            {
+              "key": "tx_130",
+              "label": "TX-130",
+              "members": []
+            },
+            {
+              "key": "at_rt",
+              "label": "AT-RT",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "armour-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "multi_rated_instructor",
+              "label": "Multi-rated instructor",
+              "members": []
+            },
+            {
+              "key": "tx_130_instructor",
+              "label": "TX-130 Instructor",
+              "members": []
+            },
+            {
+              "key": "at_rt_instructor",
+              "label": "AT-RT Instructor",
+              "members": []
+            },
+            {
+              "key": "multi_rated",
+              "label": "Multi-Rated",
+              "members": []
+            },
+            {
+              "key": "tx_130",
+              "label": "TX-130",
+              "members": []
+            },
+            {
+              "key": "at_rt",
+              "label": "AT-RT",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#e769b1"
+    },
+    {
+      "id": "5",
+      "slug": "medic",
+      "name": "Medic",
+      "description": "Medic qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "medic-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "medic_instructor",
+              "label": "Medic Instructor",
+              "members": []
+            },
+            {
+              "key": "medic",
+              "label": "Medic",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "medic-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "medic_instructor",
+              "label": "Medic Instructor",
+              "members": []
+            },
+            {
+              "key": "medic",
+              "label": "Medic",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "medic-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "medic_instructor",
+              "label": "Medic Instructor",
+              "members": []
+            },
+            {
+              "key": "medic",
+              "label": "Medic",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#8d292a"
+    },
+    {
+      "id": "6",
+      "slug": "aerial",
+      "name": "Aerial",
+      "description": "Aerial qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "aerial-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "jump_instructor",
+              "label": "Jump Instructor",
+              "members": []
+            },
+            {
+              "key": "aerial_instructor",
+              "label": "Aerial Instructor",
+              "members": []
+            },
+            {
+              "key": "jump_trooper",
+              "label": "Jump Trooper",
+              "members": []
+            },
+            {
+              "key": "aerial",
+              "label": "Aerial",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "aerial-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "jump_instructor",
+              "label": "Jump Instructor",
+              "members": []
+            },
+            {
+              "key": "aerial_instructor",
+              "label": "Aerial Instructor",
+              "members": []
+            },
+            {
+              "key": "jump_trooper",
+              "label": "Jump Trooper",
+              "members": []
+            },
+            {
+              "key": "aerial",
+              "label": "Aerial",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "aerial-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "jump_instructor",
+              "label": "Jump Instructor",
+              "members": []
+            },
+            {
+              "key": "aerial_instructor",
+              "label": "Aerial Instructor",
+              "members": []
+            },
+            {
+              "key": "jump_trooper",
+              "label": "Jump Trooper",
+              "members": []
+            },
+            {
+              "key": "aerial",
+              "label": "Aerial",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#d9481f"
+    },
+    {
+      "id": "7",
+      "slug": "arf",
+      "name": "ARF",
+      "description": "ARF qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "arf-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "pathfinder_instructor",
+              "label": "Pathfinder Instructor",
+              "members": []
+            },
+            {
+              "key": "arf_instructor",
+              "label": "ARF instructor",
+              "members": []
+            },
+            {
+              "key": "pathfiner",
+              "label": "Pathfiner",
+              "members": []
+            },
+            {
+              "key": "arf",
+              "label": "ARF",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "arf-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "pathfinder_instructor",
+              "label": "Pathfinder Instructor",
+              "members": []
+            },
+            {
+              "key": "arf_instructor",
+              "label": "ARF instructor",
+              "members": []
+            },
+            {
+              "key": "pathfiner",
+              "label": "Pathfiner",
+              "members": []
+            },
+            {
+              "key": "arf",
+              "label": "ARF",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "arf-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "pathfinder_instructor",
+              "label": "Pathfinder Instructor",
+              "members": []
+            },
+            {
+              "key": "arf_instructor",
+              "label": "ARF instructor",
+              "members": []
+            },
+            {
+              "key": "pathfiner",
+              "label": "Pathfiner",
+              "members": []
+            },
+            {
+              "key": "arf",
+              "label": "ARF",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#d21319"
+    },
+    {
+      "id": "8",
+      "slug": "ace",
+      "name": "ACE",
+      "description": "ACE qualification roster.",
+      "headCadre": {
+        "key": "head_cadre",
+        "label": "Head Cadre",
+        "members": []
+      },
+      "consoles": [
+        {
+          "id": "ace-pc",
+          "code": "pc",
+          "name": "PC",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "ace_instructor",
+              "label": "ACE Instructor",
+              "members": []
+            },
+            {
+              "key": "pilot_instructor",
+              "label": "Pilot Instructor",
+              "members": []
+            },
+            {
+              "key": "ace",
+              "label": "ACE",
+              "members": []
+            },
+            {
+              "key": "operator",
+              "label": "Operator",
+              "members": []
+            },
+            {
+              "key": "stalker",
+              "label": "Stalker",
+              "members": []
+            },
+            {
+              "key": "striker",
+              "label": "Striker",
+              "members": []
+            },
+            {
+              "key": "prowler",
+              "label": "Prowler",
+              "members": []
+            },
+            {
+              "key": "lancer",
+              "label": "Lancer",
+              "members": []
+            },
+            {
+              "key": "reaper",
+              "label": "Reaper",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "ace-xbox",
+          "code": "xbox",
+          "name": "Xbox",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "ace_instructor",
+              "label": "ACE Instructor",
+              "members": []
+            },
+            {
+              "key": "pilot_instructor",
+              "label": "Pilot Instructor",
+              "members": []
+            },
+            {
+              "key": "ace",
+              "label": "ACE",
+              "members": []
+            },
+            {
+              "key": "operator",
+              "label": "Operator",
+              "members": []
+            },
+            {
+              "key": "stalker",
+              "label": "Stalker",
+              "members": []
+            },
+            {
+              "key": "striker",
+              "label": "Striker",
+              "members": []
+            },
+            {
+              "key": "prowler",
+              "label": "Prowler",
+              "members": []
+            },
+            {
+              "key": "lancer",
+              "label": "Lancer",
+              "members": []
+            },
+            {
+              "key": "reaper",
+              "label": "Reaper",
+              "members": []
+            }
+          ]
+        },
+        {
+          "id": "ace-playstation",
+          "code": "playstation",
+          "name": "PlayStation",
+          "roleGroups": [
+            {
+              "key": "cadre",
+              "label": "Cadre",
+              "members": []
+            },
+            {
+              "key": "ace_instructor",
+              "label": "ACE Instructor",
+              "members": []
+            },
+            {
+              "key": "pilot_instructor",
+              "label": "Pilot Instructor",
+              "members": []
+            },
+            {
+              "key": "ace",
+              "label": "ACE",
+              "members": []
+            },
+            {
+              "key": "operator",
+              "label": "Operator",
+              "members": []
+            },
+            {
+              "key": "stalker",
+              "label": "Stalker",
+              "members": []
+            },
+            {
+              "key": "striker",
+              "label": "Striker",
+              "members": []
+            },
+            {
+              "key": "prowler",
+              "label": "Prowler",
+              "members": []
+            },
+            {
+              "key": "lancer",
+              "label": "Lancer",
+              "members": []
+            },
+            {
+              "key": "reaper",
+              "label": "Reaper",
+              "members": []
+            }
+          ]
+        }
+      ],
+      "color": "#b185db"
+    }
+  ]
+}
