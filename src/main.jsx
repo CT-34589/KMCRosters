@@ -2,9 +2,16 @@ import React, { useEffect, useMemo, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles.css'
 
+function envValue(value) {
+  return value?.trim() || undefined
+}
+
+const ROSTERS_API_BASE_URL =
+  envValue(import.meta.env.VITE_ROSTERS_API_BASE_URL)
+  ?? 'https://leaderboard.104thbattalionmilsim.com'
 const ROSTERS_API_URL =
-  import.meta.env.VITE_ROSTERS_API_URL
-  ?? `${import.meta.env.VITE_ROSTERS_API_BASE_URL ?? 'https://leaderboard.104thbattalionmilsim.com'}/api/rosters`
+  envValue(import.meta.env.VITE_ROSTERS_API_URL)
+  ?? `${ROSTERS_API_BASE_URL}/api/rosters`
 
 const CONSOLE_ORDER = {
   xbox: 1,
