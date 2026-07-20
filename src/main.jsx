@@ -126,7 +126,7 @@ function App() {
         const response = await fetch(ROSTERS_API_URL)
 
         if (!response.ok) {
-          throw new Error(`API returned ${response.status}`)
+          throw new Error(`API returned ${response.status} ${response.statusText}`)
         }
 
         const data = await response.json()
@@ -212,7 +212,7 @@ function App() {
         <section className="rosters" aria-live="polite">
           {error ? (
             <div className="error">
-              Could not load rosters. Check that the API is running and DATABASE_URL is configured.
+              Could not load rosters from {ROSTERS_API_URL}. {error.message}
             </div>
           ) : null}
           {!error && payload && !payload.qualifications.length ? (
