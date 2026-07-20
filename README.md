@@ -19,7 +19,8 @@ In the GitHub repo settings:
 
 - Go to `Settings > Pages`.
 - Set source to `GitHub Actions`.
-- Add a repository variable named `VITE_ROSTERS_API_BASE_URL` with the backend origin, for example `https://xp.104thbattalionmilsim.com`.
+- Production builds use `https://leaderboard.104thbattalionmilsim.com/api/rosters` by default.
+- To override it, add a repository variable named `VITE_ROSTERS_API_BASE_URL` with the backend origin.
 
 If the Pages site uses a custom domain or a user/org Pages repo ending in `.github.io`, no base path override is needed.
 

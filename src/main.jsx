@@ -6,7 +6,7 @@ const ROSTERS_API_URL =
   import.meta.env.VITE_ROSTERS_API_URL
   ?? (import.meta.env.DEV
     ? '/mock-rosters.json'
-    : `${import.meta.env.VITE_ROSTERS_API_BASE_URL ?? 'http://127.0.0.1:3000'}/api/rosters`)
+    : `${import.meta.env.VITE_ROSTERS_API_BASE_URL ?? 'https://leaderboard.104thbattalionmilsim.com'}/api/rosters`)
 
 const CONSOLE_ORDER = {
   xbox: 1,
