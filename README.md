@@ -22,9 +22,9 @@ In the GitHub repo settings:
 - Builds use `https://leaderboard.104thbattalionmilsim.com/api/rosters` by default.
 - To override it, add a repository variable named `VITE_ROSTERS_API_BASE_URL` with the backend origin.
 
-If the Pages site uses a custom domain or a user/org Pages repo ending in `.github.io`, no base path override is needed.
+The default Vite asset base path is `/`, which is correct for the custom domain `https://kmc.104thbattalionmilsim.com`.
 
-If the automatic asset base path is wrong, add a repository variable:
+If you later deploy without a custom domain at `https://CT-34589.github.io/KMCRosters/`, add a repository variable:
 
 ```text
 VITE_BASE_PATH=/your-repo-name/
